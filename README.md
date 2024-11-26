@@ -4,7 +4,7 @@ This repository contains an analysis of customer reviews for British Airways. Th
 
 ---
 
-![British Airways Reviews Analysis](Britishairwaysdashboard.png.png)
+![British Airways Reviews Analysis](BADB.png)
 
 ## Overview
 
